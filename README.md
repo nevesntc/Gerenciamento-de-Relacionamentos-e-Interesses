@@ -134,8 +134,8 @@ graphmanager/
 ## 🔐 Configuração do ArangoDB
 
 ### Credenciais Padrão
-- **Usuário**: `root`
-- **Senha**: `20022012`
+- **Usuário**: ``
+- **Senha**: ``
 - **URL**: `http://localhost:8529`
 - **Banco**: `graphmanager`
 

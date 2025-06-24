@@ -5,8 +5,8 @@ const config = {
   url: process.env.ARANGO_URL || 'http://localhost:8529',
   databaseName: process.env.ARANGO_DB || 'graphmanager',
   auth: {
-    username: process.env.ARANGO_USERNAME || 'root',
-    password: process.env.ARANGO_PASSWORD || '20022012'
+    username: process.env.ARANGO_USERNAME || '',
+    password: process.env.ARANGO_PASSWORD || ''
   }
 };
 
